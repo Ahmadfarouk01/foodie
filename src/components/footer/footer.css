@@ -1,0 +1,38 @@
+.footer__sec{
+    background: rgba(1, 4, 63, 0.923);
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+
+.footer__body{
+    display: flex;
+}
+
+.footer__links{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.footer__links h2{
+    color: rgb(229, 218, 218);
+}
+.footer__links a{
+    color: rgb(229, 218, 218);
+}
+.footer__links a:hover{
+    color: rgb(0, 0, 0);
+}
+.footer__links h3{
+    color: rgb(229, 218, 218);
+
+}
+
+.footer__link{
+    padding-bottom: 30px;
+    margin-right: 50px;
+    margin-left: 20px;
+}
+
